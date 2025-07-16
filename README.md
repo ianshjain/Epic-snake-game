@@ -1,8 +1,8 @@
-# Epic Snake Game (Pygame)
+# Epic Snake Game 😎
 
 An enhanced version of the classic Snake game with improved visuals, controls, and gameplay mechanics.
 
-##  Features 🎮
+##  Features 
 
 - Glowing snake with distinct head & body
 - Grid-based movement with arrow keys
@@ -11,13 +11,13 @@ An enhanced version of the classic Snake game with improved visuals, controls, a
 - Beautiful dark-themed UI with score tracking
 - Start screen and Game Over screen
 
-##  Controls 🕹️
+##  Controls 
 
 - Arrow Keys → Move Snake
 - SPACE → Restart after game over
 - ESC → Quit game
 
-##  How to Run 🚀
+##  How to Run 
 
 1. Install Python: https://www.python.org/downloads/
 2. Install Pygame:
