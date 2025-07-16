@@ -23,3 +23,10 @@ An enhanced version of the classic Snake game with improved visuals, controls, a
 2. Install Pygame:
    ```bash
    pip install pygame
+
+   ##  Author
+
+**ianshjain**  
+📍 [GitHub Profile](https://github.com/ianshjain)
+
+If you found this project cool, feel free to ⭐ the repository!
